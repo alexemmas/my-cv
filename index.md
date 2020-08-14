@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+**Location:** London, United Kingdom  
+**Email:** emmas.alex@gmail.com
 
-You can use the [editor on GitHub](https://github.com/alexemmas/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After completing my A-Level studies I am now looking for entry-level opportunities in Software Engineering. I am a proactive self-learner, eager to explore and understand new concepts and their practical applications; I learn quickly and problem-solve independently.
 
-### Markdown
+## Personal Strengths
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Team player with good interpersonal skills
+- ‘Can-do’, energetic and enthusiastic approach
+- Reliable, hard-working and conscientious
+- Confident and professional communicator (written and verbal)
+- Analytical and critical thinker
+- Resilient and calm in high pressure situations; solutions–focused
 
-```markdown
-Syntax highlighted code block
+## Technical skills
 
-# Header 1
-## Header 2
-### Header 3
+- Python programming - I have experience with procedural and functional programming in python, for my GCSE NEA project I programmed an interactive command line quiz bot which randomly asked questions from a larger set, provided by an external file.
 
-- Bulleted
-- List
+- C++ programming - I have experience with object oriented programming in C++, for my A-level project I created a multi-platform virtual reality game designed to help reduce the cost of medical training by having students do or observe procedures.
 
-1. Numbered
-2. List
+- Application design - In the design process for my A-Level project, I spent time considering and applying abstraction to medical procedures in order to remove unnecessary details, while keeping needed processes which are vital to the procedures, reducing them into the basic steps with the help of a medical professional and then decomposing the entire procedure into smaller steps which could be more easily coded with the use of an XML system.
 
-**Bold** and _Italic_ and `Code` text
+- HTML/CSS - I've created a simple website using HTML functions to move images and play music imported from external sources while then using a CSS file to change and adjust fonts and colours.
 
-[Link](url) and ![Image](src)
-```
+- Experience with a variety of operating systems, including Windows and Linux - I've been getting more familiar with the Linux command line while administering Raspberry Pis for home automation projects and using the Git Bash terminal for Windows when publishing work to version control systems.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Familiar with networking fundamentals, including: OSI model, TCP/IP, Network Architecture/Topology (Star, Bus, and Mesh based networks)
 
-### Jekyll Themes
+## Experience
+### Aker Systems
+**Work Experience - DevOps Engineer**  
+_Feltham, London_  
+_July 2019_  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexemmas/my-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For my Year 12 work experience, I shadowed a DevOps Engineer at a business which specialises in cloud solutions for Government and private sector customers.
 
-### Support or Contact
+The role included partaking in daily agile stand-up meetings, which required becoming familiar with key agile methodologies such as Kanban and Scrum. I assisted in the validation of code changes to cloud-based services, utilising version control and CI/CD pipelines to automatically deploy changes to production systems.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While I was with the company, I was able to gain exposure to industry leading technology and become aware of cloud-native tools, such as: Docker, Kubernetes, Drone CI/CD, and work with public cloud providers like AWS.
+
+### Bank of America
+**Work Experience - Business Solutions Manager**  
+_City of London, London_  
+_April 2018_  
+
+As part of school work experience, I shadowed a Bank of America Senior Vice President - working in the technology sector of the bank's HR department.
+
+I sat in on international conference calls regarding enhancements to their global human resources system, observing the general processes and policies followed by a large international corporation at a senior level.
+
+
+## Education
+### GCSE's
+_Ashlyns School, Berkhamsted - 2018_     
+
+Mathematics - 8  
+Computer Science - 8  
+Physics - 7  
+Chemistry - 7  
+Biology - 6  
+Religious Studies - 5  
+English Literature - 4  
+English Language - 4  
+
+
+### A-Levels
+_Ashlyns School, Berkhamsted - 2020_  
+
+Computer Science - C  
+Mathematics - D
+
+## Personal Interests
+I am an avid cinemagoer and motorsports fan. In my spare time I also enjoy practising martial arts, reading, and a Friday night take-away.
