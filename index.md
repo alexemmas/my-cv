@@ -68,7 +68,7 @@ English Language - 4
 _Ashlyns School, Berkhamsted - 2020_  
 
 Computer Science - C  
-Mathematics - D
+Mathematics - C
 
 ## Personal Interests
 I am an avid cinemagoer and motorsports fan. In my spare time I also enjoy practising martial arts, reading, and a Friday night take-away.
