@@ -29,6 +29,18 @@ After completing my A-Level studies I am now looking for entry-level opportuniti
 - Familiar with networking fundamentals, including: OSI model, TCP/IP, Network Architecture/Topology (Star, Bus, and Mesh based networks)
 
 ## Experience
+
+### Top Floor Technologies Ltd.
+**Full-time Employment - Application Specialist**
+_Berkhamsted, Hertfordshire_
+_February 2021_
+
+This was a role of development / support for a bespoke event management application. The development work involved programming / debugging in PHP / JavaScript / HTML / CSS.
+
+The support work required taking user issue tickets, analysing the problem, replicating it and resolving the issue in dev/QA environments ready for promotion to the clients production environment.
+
+The company closed in March 2021.
+
 ### Aker Systems
 **Work Experience - DevOps Engineer**  
 _Feltham, London_  
@@ -48,6 +60,7 @@ _April 2018_
 As part of school work experience, I shadowed a Bank of America Senior Vice President - working in the technology sector of the bank's HR department.
 
 I sat in on international conference calls regarding enhancements to their global human resources system, observing the general processes and policies followed by a large international corporation at a senior level.
+
 
 
 ## Education
