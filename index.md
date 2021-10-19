@@ -71,4 +71,4 @@ Computer Science - C
 Mathematics - C
 
 ## Personal Interests
-I am an avid cinemagoer and motorsports fan. In my spare time I also enjoy practising martial arts, reading, and a Friday night take-away.
+I am an avid cinemagoer and motorsports fan. In my spare time I also enjoy practising martial arts, Snowboarding, and a Friday night take-away.
