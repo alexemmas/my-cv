@@ -64,6 +64,13 @@ I sat in on international conference calls regarding enhancements to their globa
 
 
 ## Education
+
+### A-Levels
+_Ashlyns School, Berkhamsted - 2020_  
+
+Computer Science - C  
+Mathematics - C
+
 ### GCSE's
 _Ashlyns School, Berkhamsted - 2018_     
 
@@ -75,13 +82,6 @@ Biology - 6
 Religious Studies - 5  
 English Literature - 4  
 English Language - 4  
-
-
-### A-Levels
-_Ashlyns School, Berkhamsted - 2020_  
-
-Computer Science - C  
-Mathematics - C
 
 ## Personal Interests
 I am an avid cinemagoer and motorsports fan. In my spare time I also enjoy practising martial arts, Snowboarding, and a Friday night take-away.
