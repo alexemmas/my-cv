@@ -31,9 +31,9 @@ After completing my A-Level studies I am now looking for entry-level opportuniti
 ## Experience
 
 ### Top Floor Technologies Ltd.
-**Full-time Employment - Application Specialist**
-_Berkhamsted, Hertfordshire_
-_February 2021_
+**Full-time Employment - Application Specialist**  
+_Berkhamsted, Hertfordshire_  
+_February 2021_  
 
 This was a role of development / support for a bespoke event management application. The development work involved programming / debugging in PHP / JavaScript / HTML / CSS.
 
