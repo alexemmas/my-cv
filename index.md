@@ -1,5 +1,6 @@
 **Location:** London, United Kingdom  
 **Email:** emmas.alex@gmail.com
+https://www.linkedin.com/in/alex-emmas-2b78511b3/
 
 ## Profile
 
