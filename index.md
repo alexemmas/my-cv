@@ -31,6 +31,17 @@ After completing my A-Level studies I am now looking for entry-level opportuniti
 
 ## Experience
 
+### Fred & Ginger Coffee
+**Full-time Employment - Delivery Driver / Kitchen Assistant** 
+_Berkhamsted, Hertfordshire_ 
+_March 2022 until October 2023_
+
+This role was mainly split into two halves. The first was the morning and lunchtime deliveries of requested sandwiches and cakes which would require analysis of spreadsheet data from two separate locations, loading the items into the delivery van and having them delivered before 8am and 12pm respectively. 
+
+The second half was a variety of kitchen work including preparation of sandwiches and cakes, restocking and organising our fridges as well as general kitchen maintenance.
+
+
+
 ### Top Floor Technologies Ltd.
 **Full-time Employment - Application Specialist**  
 _Berkhamsted, Hertfordshire_  
