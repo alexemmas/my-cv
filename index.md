@@ -4,7 +4,7 @@
 
 ## Profile
 
-After completing my A-Level studies I am now looking for entry-level opportunities in Software Engineering, DevOps and Cyber Security. I am a proactive self-learner, eager to explore and understand new concepts and their practical applications; I learn quickly and problem-solve independently.
+I am currently looking for entry-level opportunities in Software Engineering, DevOps and Cyber Security. I am a proactive self-learner, eager to explore and understand new concepts and their practical applications; I learn quickly and problem-solve independently.
 
 ## Personal Strengths
 
